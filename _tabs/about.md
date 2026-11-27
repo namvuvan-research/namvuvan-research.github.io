@@ -8,7 +8,7 @@ order: 4
 
 I'm **Vũ Văn Nam** (Nam Vu), a Security Engineer at NTQ since July 2026 and a cybersecurity student at Hanoi University of Science and Technology.
 
-I started with web application security and practical vulnerability research. I'm now exploring how AI and automation can help people investigate security problems, reduce repetitive work, and improve workflows across different security domains. I'm continuing to build the technical foundations needed to understand and verify the results.
+My focus is application security and responsible disclosure. I explore AI-assisted security workflows and study the security of LLM applications and agents, emphasizing reproducible evidence and clear limitations.
 
 ## Selected research
 
