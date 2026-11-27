@@ -6,6 +6,8 @@ tags: [xss, dom-xss, browser-extension, coccoc]
 pin: false
 ---
 
+[GitHub report and Vietnamese translation](https://github.com/namvuvan-research/security-writeups/tree/main/coccoc-dom-xss).
+
 ## Summary
 A DOM-based XSS vulnerability was identified in the default "Dictionary & Translate" (Từ điển và Dịch) extension bundled with Cốc Cốc browser. When a user highlights text containing HTML/JavaScript inside a `<textarea>` element, the extension renders the selected content as raw HTML instead of plain text, causing the browser to execute arbitrary JavaScript in the context of the current page. The vulnerability has been fixed by the Cốc Cốc team.
 
