@@ -1,6 +1,6 @@
 # Vũ Văn Nam — Security research, in practice
 
-Personal portfolio and security blog: [vuvannam-sec.github.io](https://vuvannam-sec.github.io).
+Personal portfolio and security blog: [namvuvan-research.github.io](https://namvuvan-research.github.io).
 
 The homepage introduces my research, public projects and current direction. Published write-ups remain in `_posts/` and keep their original URLs. The blog uses Jekyll and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), with deployment through GitHub Actions.
 
