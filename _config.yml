@@ -4,11 +4,11 @@ lang: en
 timezone: Asia/Ho_Chi_Minh
 
 title: Nam Vu
-tagline: Security research & AI-assisted workflows
+tagline: Application security & AI-assisted security research
 
 description: >-
   Security research, responsible disclosure, and AI-assisted security workflows
-  by Nam Vu, a cybersecurity student at Hanoi University of Science and Technology.
+  by Nam Vu, a Security Engineer at NTQ and cybersecurity student at Hanoi University of Science and Technology.
 
 url: "https://namvuvan-research.github.io"
 baseurl: ""
@@ -28,7 +28,7 @@ social:
     - https://www.linkedin.com/in/namvuvan-security
 
 theme_mode: light
-avatar: https://github.com/namvuvan-research.png
+avatar: /assets/img/profile-avatar.png
 toc: true
 comments: false
 paginate: 10
