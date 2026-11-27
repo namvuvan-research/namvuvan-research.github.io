@@ -7,6 +7,8 @@ tags: [xss, stored-xss, ai-security, genspark]
 pin: true
 ---
 
+[GitHub report and Vietnamese translation](https://github.com/namvuvan-research/security-writeups/tree/main/genspark-stored-xss).
+
 ## Summary
 A stored XSS vulnerability was identified in Genspark's AI Chat feature. A crafted prompt could cause the AI to generate malicious HTML that was rendered into the DOM without sanitization. In the proof of concept, the payload persisted and executed when another visitor opened the shared conversation. The vulnerability was reported to Genspark and subsequently fixed.
 
