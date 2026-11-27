@@ -25,10 +25,10 @@ I started with web application security and practical vulnerability research. I'
 
 ## Projects
 
-- [AI-Based Security Enhancements](https://github.com/vuvannam-sec/AI-Based-Security-Enhancements) — a Linux host-monitoring research prototype.
-- [VPN Traffic Detection](https://github.com/vuvannam-sec/vpn-detector-traffic-analysis) — an experimental network-flow classification study.
-- [RubyGYM](https://github.com/vuvannam-sec/rubygym) — an AI-assisted academic web application with security checks in CI/CD.
-- [Security Write-ups](https://github.com/vuvannam-sec/security-writeups) — public research notes and vulnerability reports.
+- [AI-Based Security Enhancements](https://github.com/namvuvan-research/AI-Based-Security-Enhancements) — a Linux host-monitoring research prototype.
+- [VPN Traffic Detection](https://github.com/namvuvan-research/vpn-detector-traffic-analysis) — an experimental network-flow classification study.
+- [RubyGYM](https://github.com/namvuvan-research/rubygym) — an AI-assisted academic web application with security checks in CI/CD.
+- [Security Write-ups](https://github.com/namvuvan-research/security-writeups) — public research notes and vulnerability reports.
 
 ## Education and training
 
@@ -38,4 +38,4 @@ I started with web application security and practical vulnerability research. I'
 
 ## Contact
 
-[Email](mailto:vuvannam.sec@gmail.com) · [GitHub](https://github.com/vuvannam-sec) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam-sec)
+[Email](mailto:vuvannam.sec@gmail.com) · [GitHub](https://github.com/namvuvan-research) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam-sec)
